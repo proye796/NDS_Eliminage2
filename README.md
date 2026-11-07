@@ -10,14 +10,8 @@ ZIP에는 원본 ROM이나 패치 완료 ROM이 들어 있지 않습니다. 정�
 | 대상 | 크기(바이트) | SHA-256 |
 |---|---:|---|
 | 일본판 VL3J revision 0, DSi 영역 포함 | 134,217,728 | 692d0d0b88b5bb223abc17b21b3928dd907946a9932362e62f5852d9bbf456f1 |
-| Elminage2-KO-v1.0.1.nds | 134,217,728 | b98f468e33317cd1d2451eb978a6c2e8c38d2a6b724235a541db06e1095934b6 |
-
-원본 MD5: `0d475fa154ef18a3d1859d2bb657d0de`. BPS를 지원하는 패치 도구로 적용하고 결과 해시를 확인하세요.
-
-| 배포 파일 | 크기(바이트) | SHA-256 |
-|---|---:|---|
-| Elminage2-KO-v1.0.1.zip | 1,467,379 | d12d68dea1dfe14de9fd3d6a05f9fe91b98cf7091925fa3a0845d9f3735e8481 |
-| Elminage2-KO-v1.0.1.bps | 3,450,178 | 7b20dffdda3fe95859f964a0880c1bc0fdcb7397d577a7eaafb0b98288b1c275 |
+| Elminage2-KO-v1.0.1.nds | 134,217,728 | 5559317e0558b5d614c510cc051a1d1a0463630d064259b440772963cbec9ae1 |
+| Elminage2-KO-v1.0.1.bps | 3,450,322 | 90b0b2efd5bde1bc686bbb55bab9946a46e3a6c3b998e22e885e860a0318437d |
 
 ## 고친 버그
 
