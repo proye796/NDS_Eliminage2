@@ -1,17 +1,19 @@
-# エルミナージュII 双生の女神と運命の大地 DS REMIX NDS 한국어 패치 v1.0.1
+# 에르미나쥬2 DS 리믹스 한국어 패치 v1.0.1.1
 
-작성일: 2026-11-08
+갱신일: 2026-11-21 18:50 KST
 대상: Elminage II - Sousei no Megami to Unmei no Daichi - DS Remix
 
 ## 적용 방법
 
-ZIP에는 원본 ROM이나 패치 완료 ROM이 들어 있지 않습니다. 정품에서 추출한 아래 일본판 원본에 BPS를 적용하세요. **이전 한글판 위에 덧씌우지 않습니다.**
+ZIP에는 BPS 패치·설명서·갈무리 라이선스만 들어 있습니다. 아래 일본판 원본에 적용하세요. 이전 한글판 위에 덧씌우지 않습니다.
 
 | 대상 | 크기(바이트) | SHA-256 |
 |---|---:|---|
 | 일본판 VL3J revision 0, DSi 영역 포함 | 134,217,728 | 692d0d0b88b5bb223abc17b21b3928dd907946a9932362e62f5852d9bbf456f1 |
-| Elminage2-KO-v1.0.1.nds | 134,217,728 | 5559317e0558b5d614c510cc051a1d1a0463630d064259b440772963cbec9ae1 |
-| Elminage2-KO-v1.0.1.bps | 3,450,322 | 90b0b2efd5bde1bc686bbb55bab9946a46e3a6c3b998e22e885e860a0318437d |
+| Elminage2-KO-v1.0.1.1.nds | 134,217,728 | 5a5a81de80a8783a59a2e22997ecd728d1d54bf3f5a07be6f6eed37cab684eaf |
+| Elminage2-KO-v1.0.1.1.bps | 3,450,390 | e2da63239081273e5fb01dd82eefa7465a5352c081106fc7cfac1da37bb84c58 |
+
+원본 MD5: `0d475fa154ef18a3d1859d2bb657d0de`. BPS를 지원하는 패치 도구로 적용하고 결과 해시를 확인하세요.
 
 ## 고친 버그
 
